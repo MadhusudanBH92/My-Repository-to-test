@@ -1,4 +1,6 @@
 # My-Repository-to-test
 This is repository is used to test
 
-Adding this line to test commit changes.One more edit to test conflict.
+Adding this line to test commit changes.
+
+test3.
