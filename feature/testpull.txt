@@ -2,4 +2,6 @@ this file is to test pull in feature- 2 branch
 
 This was modified locally
 
+line added after Feature-2 branch created remotely
+
 this line was added to test differences in Feature-2 branch
